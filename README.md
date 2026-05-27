@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/28296899/README.md)
 # Awesome Database Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Community driven list of database tools
@@ -72,7 +73,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 - [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 - [DBHawk](https://www.datasparc.com/) - Datasparc offers database security, database management, database governance and data analytics - all in one solution.
-- [dbKoda](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+- [dbKoda](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning
+- - [Dory](https://github.com/dorylab/dory) - AI-native Data Workspace for modern databases with intelligent SQL editing, context-aware AI assistance, and conversational database exploration.on MongoDB databases.
 - [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 - [Kangaroo](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
@@ -104,6 +106,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 - [DB Lens](https://github.com/dblens/app) - Open Source PostgreSQL GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
+- - [Dory](https://github.com/dorylab/dory) - AI-native Data Workspace for modern databases with intelligent SQL editing, context-aware AI assistance, and conversational database exploration.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 - [Malewicz](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
